@@ -19,4 +19,4 @@ Kode Input
 ![alt text](https://github.com/sleepnpeace/tugas_praktikum_3DDP/blob/main/Images/Kode%20Input.png?raw=true)
 
 Hasil Output
-![alt text](https://github.com/sleepnpeace/tugas_praktikum_3DDP/blob/main/Images/Hasil%20Output.pngraw=true)
+![alt text](https://github.com/sleepnpeace/tugas_praktikum_3DDP/blob/main/Images/Hasil%20Output.png?raw=true)
